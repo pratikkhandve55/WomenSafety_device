@@ -20,7 +20,8 @@ A compact, low-cost, IoT-based emergency alert system built using an **ESP32 Dev
 > Connect a push button between **GPIO26** and **GND**.  
 > The onboard blue LED on **GPIO2** is used as an indicator.
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](images/circuit.jpg)
+
 
 ---
 
