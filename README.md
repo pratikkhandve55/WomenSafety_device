@@ -1,3 +1,7 @@
+# Women Safety Device - ESP32 IoT Alert System
+
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+
 #  Women Safety Device using ESP32 + Twilio
 
 A compact, low-cost, IoT-based emergency alert system built using an **ESP32 DevKit V1**, programmed with **MicroPython**, that automatically sends an **emergency call and SMS** using **Twilio Cloud API** when a button is pressed.
